@@ -1,10 +1,5 @@
-﻿---
-title: 'Chapter 2: The OSI Reference Model'
-updated: 2023-04-14 08:05:18Z
-created: 2023-04-14 06:24:18Z
-latitude: 35.68919750
-longitude: 51.38897360
-altitude: 0.0000
+---
+'Chapter 2: The OSI Reference Model'
 ---
 
 ## Summary
