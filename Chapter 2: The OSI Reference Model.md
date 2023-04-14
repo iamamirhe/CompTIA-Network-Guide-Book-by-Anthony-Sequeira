@@ -1,9 +1,5 @@
+## Chapter 2: The OSI Reference Model
 ---
-'Chapter 2: The OSI Reference Model'
----
-
-## Summary
-
 Here are the main topics covered in this chapter:
 
 - The ISO’s OSI reference model consists of seven layers: physical (Layer 1), data link (Layer 2), network (Layer 3), transport (Layer 4), session (Layer 5), presentation (Layer 6), and application (Layer 7). The purpose of each layer was presented, along with examples of technologies living at the individual layers, as it pertains to networking.
